@@ -1,0 +1,17 @@
+{
+  "name": "kidcat",
+  "version": "1.3.0",
+  "description": "a cat command which wont let kids catch 18+ files",
+  "main": "kidcat.sh",
+  "bin": {
+    "kidcat": "./kidcat.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cat"
+  ],
+  "author": "拆家大主教",
+  "license": "MIT"
+}
