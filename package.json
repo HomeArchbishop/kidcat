@@ -1,6 +1,6 @@
 {
   "name": "kidcat",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "a cat command which wont let kids catch 18+ files",
   "main": "kidcat.sh",
   "bin": {
