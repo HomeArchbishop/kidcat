@@ -1,6 +1,6 @@
 {
   "name": "kidcat",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "a cat command which wont let kids catch 18+ files",
   "main": "kidcat.sh",
   "bin": {
@@ -13,5 +13,9 @@
     "cat"
   ],
   "author": "拆家大主教",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/HomeArchbishop/kidcat.git"
+  }
 }

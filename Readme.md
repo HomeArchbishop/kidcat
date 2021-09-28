@@ -19,3 +19,6 @@ kidcat <fileName>
 You can NOW unlink your cat command if possible, uh?
 
 It's a bit more troublesome when you catch a file, but it's **safer** for your future kids, isn't it?
+
+## Repo
+- [Github](https://github.com/HomeArchbishop/kidcat.git) - MIT
